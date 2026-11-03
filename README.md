@@ -1,7 +1,7 @@
 # go-kart-modeling
 
 
-![Go-Kart Rendering](Rendering%201%20-%20Copy.JPG)
+<img src="Rendering%201%20-%20Copy.JPG" alt="Go-Kart Rendering" width="500">
 
 ## Overview
 
