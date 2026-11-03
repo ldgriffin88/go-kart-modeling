@@ -1,7 +1,7 @@
 # go-kart-modeling
 
 <p align="center">
-  <img src="Rendering%201%20-%20Copy.JPG" alt="Go-Kart Rendering" width="400">
+  <img src="rendering.jpg" alt="Go-Kart Rendering" width="400">
 </p>
 
 ## Overview
